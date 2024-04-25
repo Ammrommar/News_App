@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:http/http.dart' as http;
 import 'package:news_app/api/api_constant.dart';
 import 'package:news_app/model/NewsResponse.dart';
